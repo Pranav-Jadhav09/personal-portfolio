@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "./assets/img/programmer.png.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./assets/img/programmer.png.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
