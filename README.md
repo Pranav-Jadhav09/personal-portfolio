@@ -6,8 +6,6 @@
 <br />
 <br />
 
-<img src="./build/assets/application.png" style="width: 90">
-
 <h2 align="center">Portfolio - Website</h2>
 This is my personal portfolio made using HTML5, CSS3 and JavaScript. I've used Scroll reveal js library as well.
 
